@@ -4,7 +4,7 @@ import cv2
 from matplotlib import pyplot as plt
 from sklearn import linear_model
 
-plot = True
+plot = False
 
 def hough_transform(image):
 
